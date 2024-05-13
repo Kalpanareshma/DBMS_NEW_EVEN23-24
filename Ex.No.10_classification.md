@@ -1,5 +1,5 @@
 # EX.NO.10: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 08-05-2024
+### Date: 08-05-2024
 ### NAME: KALPANA S
 ### REGISTER NUMBER: 212222040069
 ## AIM:
