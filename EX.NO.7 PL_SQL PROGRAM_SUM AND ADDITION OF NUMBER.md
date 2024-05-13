@@ -10,7 +10,7 @@ To create PL/SQL program to perform addition and subtraction of two number.
 3. Perform subtraction of two numbers 
 4. Display the result 
 5. End the begin section.
-### Program:
+## PROGRAM:
 ```
 declare
 -- declare variable x, y 
@@ -33,7 +33,7 @@ dbms_output.put_line('subtraction is '||S);
 end; 
 /                       
 ```
-### Output:
+## OUTPUT:
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/84a57942-2877-4d2d-9a80-42b0c6ba8916)
-### Result:
+## RESULT:
 Thust the program was performed sucessfully.
