@@ -1,16 +1,17 @@
 # Ex. No: 9  Triggers in PL/SQL
-### DATE: 
-### REGISTER NUMBER:
-### AIM: 
+### DATE: 24.04.2024
+### NAME: KALPANA S
+### REGISTER NUMBER: 212222040069
+## AIM: 
 To create PL/SQL program to display new and old salary of customer when before/ after updation takes place. 
-### PROCEDURE
+## PROCEDURE
 1. Create a trigger for each row when updation occurs.
 2. Declare the variable in Declare section.
 3. Start the begin section.
 4. Calculate the salary changes.
 5. Display the result 
 6. End the begin section.
-### Program:
+## Program:
 ```
 CREATE OR REPLACE TRIGGER display_salary_changes 
 BEFORE DELETE OR INSERT OR UPDATE ON customers 
@@ -26,7 +27,7 @@ BEGIN
 END; 
 /   
 ```
-### Output:
+## Output:
 ```
 3 row(s) updated.
 Old salary: 2500
@@ -36,5 +37,5 @@ Old salary: 2000
 New salary: 2500
 Salary difference: 500
 ```
-### Result:
+## Result:
 Thust the program was performed sucessfully.
